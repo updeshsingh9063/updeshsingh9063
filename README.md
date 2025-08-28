@@ -4,7 +4,7 @@
 ### Welcome to my GitHub profile!
 
 - 👨‍💻 I'm a CSE student passionate about tech, code & innovation  
-- 🚀 Currently learning: Python | C++ | Flutter  
+- 🚀 Currently learning: Python | C++ | AI & ML Concepts
 - 💡 Interested in: Full-stack development, AI/ML, open-source contributions  
 - 🤝 Looking to collaborate on impactful tech projects  
 - ✉️ Reach me at: [updeshsingh9063@gmail.com](mailto:. updeshsingh9063@gmail.com)  
