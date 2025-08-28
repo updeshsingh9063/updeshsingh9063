@@ -3,7 +3,7 @@
 
 ### Welcome to my GitHub profile!
 
-- 👨‍💻 I'm a CSE student passionate about tech, code & innovation  
+- 👨‍💻 I'm a CSE(AI-ML) student passionate about tech, code & innovation  
 - 🚀 Currently learning: Python | C++ | AI & ML Concepts
 - 💡 Interested in: Full-stack development, AI/ML, open-source contributions  
 - 🤝 Looking to collaborate on impactful tech projects  
