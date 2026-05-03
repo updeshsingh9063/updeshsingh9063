@@ -56,12 +56,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
-<h2 align="center">⭐ GitHub Stars</h2>
+<h2 align="center">⭐ Total Stars</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/updeshsingh9063/nexus-ai-core?style=for-the-badge&color=yellow" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=updeshsingh9063&theme=tokyonight" />
 </p>
-
 ---
 
 <h2>🔥 Contribution Graph</h2>
