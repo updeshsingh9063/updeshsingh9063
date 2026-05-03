@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Updesh Singh</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=UPDESH%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a2980,100:26d0ce&height=280&section=header&text=UPDESH%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;AI+Agent+Builder;Automation+Expert;Python+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Designing+AI+Agents;🤖+Building+Autonomous+Systems;🚀+Full+Stack+AI+Developer;🧠+Machine+Learning+Engineer;🔥+Turning+Ideas+into+AI+Products" />
 </p>
 
 ---
