@@ -56,11 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
 
-<h2 align="center">🚀 Featured Project</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=updeshsingh9063&repo=nexus-ai-core&theme=tokyonight&hide_border=true&border_radius=12" />
-</p>
+<h2 align="center">⭐ GitHub Stars</h2>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/updeshsingh9063/nexus-ai-core?style=for-the-badge&color=yellow" />
