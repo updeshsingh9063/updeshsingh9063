@@ -62,6 +62,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=updeshsingh9063&theme=tokyonight" />
 </p>
 ---
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=updeshsingh9063&theme=onestar&no-frame=true&margin-w=25&margin-h=25&column=4" />
+</p>
 
 <h2>🔥 Contribution Graph</h2>
 
