@@ -65,7 +65,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=updeshsingh9063&theme=algolia&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=updeshsingh9063&theme=onestar&no-frame=true&margin-w=25&margin-h=25&column=4" />
 </p>
 <h2>🔥 Contribution Graph</h2>
 
