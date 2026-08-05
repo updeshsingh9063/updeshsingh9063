@@ -1,131 +1,126 @@
-<h1 align="center">Hi 👋, I'm Updesh Singh</h1>
+<a href="https://github.com/updeshsingh9063">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Updesh%20Singh&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%" alt="header"/>
+</a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a2980,100:26d0ce&height=280&section=header&text=UPDESH%20SINGH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descAlign=50" />
-</p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+Engineer+%F0%9F%A4%96;Building+Intelligent+Systems+%E2%9A%A1;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Full+Stack+Developer+%F0%9F%92%BB)](https://github.com/updeshsingh9063)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=⚡+Designing+AI+Agents;🤖+Building+Autonomous+Systems;🚀+Full+Stack+AI+Developer;🧠+Machine+Learning+Engineer;🔥+Turning+Ideas+into+AI+Products"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=updeshsingh9063&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="views"/>
+<a href="https://github.com/updeshsingh9063?tab=followers">
+  <img src="https://img.shields.io/github/followers/updeshsingh9063?label=Followers&style=for-the-badge&color=203a43" alt="followers"/>
+</a>
+<img src="https://img.shields.io/badge/AI%20Engineer-0f2027?style=for-the-badge&logo=openai&logoColor=white" alt="role"/>
 
+</div>
 
----
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-## 🚀 About Me
+​```python
+class UpdeshSingh:
+    def __init__(self):
+        self.role        = "AI Engineer"
+        self.education   = "B.Tech CSE (AI & ML)"
+        self.focus       = ["AI Agents", "Automation", "LLMs", "Full-Stack"]
+        self.mission     = "Solving real-world problems with intelligent systems"
+        self.open_to     = "Collaboration on impactful projects"
 
-- 🎓 CSE (AI-ML) Student
-- 💡 Passionate about Artificial Intelligence, Machine Learning & Full Stack Development
-- 🤖 Building AI Agents & Automation Systems
-- ⚡ Solving real-world problems using AI
-- 🚀 Creating intelligent products
-- 🤝 Open for collaboration on impactful projects
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something great! 🚀")
+​```
 
+- 🎓 &nbsp;CSE (AI & ML) Student
+- 🤖 &nbsp;Passionate about **Artificial Intelligence, Machine Learning & Full-Stack Development**
+- 🧩 &nbsp;Building **AI Agents & Automation Systems**
+- 💡 &nbsp;Solving real-world problems using **AI**
+- 🛠️ &nbsp;Creating intelligent products end-to-end
+- 🤝 &nbsp;Open for collaboration on impactful projects
 
----
+## 🧰 Skills & Tech Stack
 
-## 🧠 Skills & Tech Stack
+<div align="center">
 
+### Languages
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,html,css" alt="languages"/>
 
-<p align="center">
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,fastapi,flask" alt="frameworks"/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nextjs,nodejs,express,git,github,tensorflow,pytorch,linux,docker,vscode"/>
+### AI / ML & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="ai"/>
 
-</p>
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,linux,vscode,postman" alt="tools"/>
 
-
----
+</div>
 
 ## ⚡ AI & Automation Skills
 
+<div align="center">
 
-<p align="center">
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00D9FF?style=for-the-badge&logo=probot&logoColor=black)
+![Automation](https://img.shields.io/badge/Automation-FF6B35?style=for-the-badge&logo=zapier&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-2ECC71?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-E74C3C?style=for-the-badge&logo=databricks&logoColor=white)
 
-<img src="https://img.shields.io/badge/AI%20Agents-00F7FF?style=for-the-badge&logo=openai&logoColor=black"/>
+</div>
 
-<img src="https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge"/>
+## 📊 GitHub Stats
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/LLMs-00C853?style=for-the-badge"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=updeshsingh9063&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" alt="stats"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=updeshsingh9063&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B35&currStreakLabel=38BDF8" alt="streak"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=38BDF8" alt="top langs"/>
 
+</div>
 
----
+## 🏆 GitHub Trophies
 
-<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=updeshsingh9063&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-  
-  <img src="https://streak-stats.demolab.com/?user=updeshsingh9063&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=updeshsingh9063&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=38BDF8" alt="trophies"/>
 
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
+## 📈 Contribution Graph
 
-<h2 align="center">🔥 GitHub Contribution Stats</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=updeshsingh9063&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=updeshsingh9063&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=203a43" alt="activity graph" width="100%"/>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=updeshsingh9063&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
+</div>
 
----
+## 🐍 Contribution Snake
 
-<h2 align="center">🏆 GitHub Achievements</h2>
+<div align="center">
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/updeshsingh9063/updeshsingh9063/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/updeshsingh9063/updeshsingh9063/output/snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/updeshsingh9063/updeshsingh9063/output/snake.svg"/>
+</picture>
 
-<img src="https://github-profile-trophy.vercel.app/?username=updeshsingh9063&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</div>
 
-</p>
+## 🌐 Connect With Me
 
+<div align="center">
 
----
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
 
-<h2 align="center">🔥 Contribution Graph</h2>
+</div>
 
+<div align="center">
 
-<p align="center">
+⭐️ From [Updesh Singh](https://github.com/updeshsingh9063) — *Building intelligent systems, one commit at a time.*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=updeshsingh9063&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
 
-</p>
-
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/updeshsingh9063/updeshsingh9063/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
-
----
-
-<h2 align="center">👀 Profile Visitors</h2>
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=updeshsingh9063&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
