@@ -75,7 +75,11 @@ class UpdeshSingh:
 <img height="180em" src="https://streak-stats.demolab.com?user=updeshsingh9063&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=FF6B35&currStreakLabel=38BDF8" alt="streak"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0d1117&title_color=38BDF8" alt="top langs"/>
+<div align="center">
 
+![Total Commits](https://img.shields.io/badge/dynamic/json?url=https://github-contributions-api.jogruber.de/v4/updeshsingh9063%3Fy%3Dall&query=$.total.*&label=Total%20Contributions&style=for-the-badge&color=38BDF8&logo=github)
+
+</div>
 </div>
 
 ## 🏆 GitHub Trophies
