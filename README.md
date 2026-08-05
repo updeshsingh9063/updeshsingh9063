@@ -67,6 +67,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
+<h2 align="center">🔥 GitHub Contribution Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=updeshsingh9063&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=updeshsingh9063&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
 ---
 
 <h2 align="center">🏆 GitHub Achievements</h2>
