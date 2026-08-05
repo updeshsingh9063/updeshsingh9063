@@ -16,18 +16,18 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-​```python
+```python
 class UpdeshSingh:
     def __init__(self):
-        self.role        = "AI Engineer"
-        self.education   = "B.Tech CSE (AI & ML)"
-        self.focus       = ["AI Agents", "Automation", "LLMs", "Full-Stack"]
-        self.mission     = "Solving real-world problems with intelligent systems"
-        self.open_to     = "Collaboration on impactful projects"
+        self.role      = "AI Engineer"
+        self.education = "B.Tech CSE (AI & ML)"
+        self.focus     = ["AI Agents", "Automation", "LLMs", "Full-Stack"]
+        self.mission   = "Solving real-world problems with intelligent systems"
+        self.open_to   = "Collaboration on impactful projects"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something great! 🚀")
-​```
+```
 
 - 🎓 &nbsp;CSE (AI & ML) Student
 - 🤖 &nbsp;Passionate about **Artificial Intelligence, Machine Learning & Full-Stack Development**
