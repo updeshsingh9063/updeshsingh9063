@@ -56,32 +56,24 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats-eight-theta-21.vercel.app/api?username=updeshsingh9063&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-
-
-<img width="48%" src="https://streak-stats.demolab.com?user=updeshsingh9063&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=updeshsingh9063&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
+  
+  <img src="https://streak-stats.demolab.com/?user=updeshsingh9063&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats-eight-theta-21.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updeshsingh9063&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
-
 
 ---
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=updeshsingh9063&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=updeshsingh9063&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
